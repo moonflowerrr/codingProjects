@@ -1,2 +1,2 @@
-# codingProjects
-A mixture of highschool and personal projects
+# cookBookJournal
+A recipe journal for cooking that I made in 9th grade
